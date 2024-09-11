@@ -1,5 +1,5 @@
 import { type Locator, type Page } from "@playwright/test";
-import { LoginPage } from "./loginPage";
+import { LoginPage } from ".pages/login.page";
 
 export class PanierPage {
   
